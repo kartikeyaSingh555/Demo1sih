@@ -1,0 +1,9 @@
+PLATE_MODEL_REPO = "Babblu2821/alpr-plate-detector"
+PLATE_MODEL_FILE = "best.pt"
+
+PLATE_CONFIDENCE = 0.35
+PLATE_IOU = 0.50
+PLATE_IMAGE_SIZE = 640
+
+PLATE_CLASS_ID = 0
+PLATE_CLASS_NAME = "license_plate"

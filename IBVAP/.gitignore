@@ -1,0 +1,62 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python tooling
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# ML model/cache files
+*.pt
+*.pth
+*.onnx
+*.safetensors
+*.bin
+
+# Hugging Face / model caches
+.cache/
+hf_cache/
+
+# InsightFace cache
+.insightface/
+
+# Generated demo media
+data/demo/*.mp4
+data/demo/*_result.jpg
+data/demo/*_result.png
+data/demo/*_output.jpg
+data/demo/*_output.png
+
+# Local PaddleOCR source
+ml/anpr/paddleocr_core/
+
+# Logs
+*.log
+
+# Node
+node_modules/
+dist/
+build/
+
+# Frontend environment
+frontend/.env

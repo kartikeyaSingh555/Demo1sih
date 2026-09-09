@@ -1,0 +1,9 @@
+ultralytics
+opencv-python
+numpy
+PyYAML
+huggingface_hub
+easyocr
+paddlepaddle
+safetensors
+Pillow

@@ -1,0 +1,9 @@
+MODEL_REPO = "sapoepsilon/yolov11s-drone-detector"
+MODEL_FILE = "best.pt"
+
+CONFIDENCE_THRESHOLD = 0.35
+IOU_THRESHOLD = 0.50
+IMAGE_SIZE = 640
+
+DRONE_CLASS_ID = 0
+DRONE_CLASS_NAME = "drone"
